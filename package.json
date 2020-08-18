@@ -1,0 +1,24 @@
+{
+  "name": "vidly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dosama/nodejs-vidly-api.git"
+  },
+  "author": "dina osama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dosama/nodejs-vidly-api/issues"
+  },
+  "homepage": "https://github.com/dosama/nodejs-vidly-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.2.0",
+    "lodash": "^4.17.20"
+  }
+}
